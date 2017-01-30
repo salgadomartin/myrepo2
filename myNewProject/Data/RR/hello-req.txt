@@ -1,0 +1,4 @@
+GET /web/service/hello HTTP/1.1
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: application/json
